@@ -56,8 +56,6 @@ SO THAT I can keep a list of books to purchase
 
 * **jwt-decode** is an npm package that helps decode JWTs from their Base64Url encoding. (For this application, it is used to extract non-sensitive data such as the token’s expiration date to see if it’s expired before making a request to the server.)
 
-* **The faker npm package** allows you to generate massive amounts of fake data in the development environment of your Node.js applications.
-
 * **The nodemon package** simplifies the development environment by automatically restarting the Node.js applications when file changes in the directory are detected.
 
 
@@ -75,7 +73,9 @@ To install packages run the following command:
 
 ## Deployed Application
 
-Deployed to Heroku - 
+Github: https://noahslusher.github.io/restful-to-graph/
+
+Deployed to Heroku: https://warm-cliffs-35087.herokuapp.com/
 
 
 ## License
